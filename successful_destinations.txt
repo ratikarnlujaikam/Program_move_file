@@ -1,0 +1,4 @@
+//192.168.102.198/d/ISPINDLE/QRcodeRequest/new
+//192.168.101.128/ispindle2/QRcodeRequest
+//192.168.101.109/ispindle/QRcodeRequest/new
+//192.168.105.238/ispindle/QRcodeRequest

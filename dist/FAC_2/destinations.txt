@@ -1,0 +1,8 @@
+\\192.168.104.20\iot\Run_duration
+\\192.168.104.193\iot\Run_duration
+\\192.168.104.22\iot\Run_duration
+\\192.168.104.209\iot\Run_duration
+\\192.168.104.167\iot\Run_duration
+\\192.168.104.66\iot\Run_duration
+\\192.168.104.220\iot\Run_duration
+
